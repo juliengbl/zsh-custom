@@ -4,7 +4,7 @@
 
 3. ./install_zsh.sh
 
-4. CTRL+D when zsh prompt appears for the 1st time
+4. CTRL+D when zsh prompt appears for the first time
 
 5. logout and login when install is done
 
