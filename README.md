@@ -2,10 +2,12 @@
 
 2 - cd zsh-custom
 
-3 - ./install_zsh.sh
+3 - chmod +x install_zsh.sh
 
-4 - CTRL+D when zsh prompt appears for the first time
+4 - ./install_zsh.sh
 
-5 - logout and login when install is done
+5 - CTRL+D when zsh prompt appears for the first time
 
-6 - enjoy
+6 - logout and login when install is done
+
+7 - enjoy
